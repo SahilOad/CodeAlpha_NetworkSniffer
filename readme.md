@@ -27,7 +27,7 @@ This Python program is a basic network packet sniffer designed to capture and an
 ## **How to Run**
 
 1. **Clone the repository:**  
-   git clone https://github.com/YourGitHubUsername/CodeAlpha\_NetworkSniffer.git  
+   git clone https://github.com/SahilOad/CodeAlpha_NetworkSniffer.git  
    cd CodeAlpha\_NetworkSniffer
 
 2. **Install Dependencies:**  
